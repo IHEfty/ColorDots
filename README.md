@@ -40,7 +40,7 @@ ColorDots is a classic Dots and Boxes game implemented using Python's Tkinter li
 
 Run the game by executing the following command in your terminal:
 ```bash
-python ColorDots.py
+python main.py
 ```
 
 ## Gameplay
